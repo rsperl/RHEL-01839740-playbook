@@ -1,0 +1,5 @@
+---
+- name: rolexyz
+  scm: git
+  src: https://github.com/rsperl/RHEL-01839740-role.git
+  version: master
